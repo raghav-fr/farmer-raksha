@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "574790276604",
+    "project_id": "avishkaar-fca7b",
+    "storage_bucket": "avishkaar-fca7b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574790276604:android:81ce8ea636281504a38e79",
+        "android_client_info": {
+          "package_name": "com.example.avishkaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574790276604-26vjnt5fm6lhd15ehdab58buu3qqjim0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.avishkaar",
+            "certificate_hash": "327c7759ad6a6bfe645ba70e3efe9d52a0f92ebd"
+          }
+        },
+        {
+          "client_id": "574790276604-83rq2epktt7hl25an3gpcvco15vqsi21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmhnW_yAPEJERCV8GT_O58GYRa0Ok3OgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574790276604-83rq2epktt7hl25an3gpcvco15vqsi21.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "574790276604-nbbccim5n5m5o8kec8c8mn7mrihknbb7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.avishkaar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
